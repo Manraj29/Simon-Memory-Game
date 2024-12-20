@@ -14,6 +14,8 @@ The Simon Game is a fun and challenging game where players must mimic a growing 
 |-------------|------------|---------|
 | <img src="https://github.com/user-attachments/assets/a7e8e334-bd4e-4466-84a7-9aa43a5a0860" width="300px"/>| <img src="https://github.com/user-attachments/assets/8d46c7cf-ac64-4e1c-8774-c0c99c6281d9" width="300px"/> | <img src="https://github.com/user-attachments/assets/57e9d9e4-cf3e-4013-8c49-5a49f5bd2040" width="300px"/>
 
+## App logo:
+<img src="https://github.com/user-attachments/assets/fe13ce41-3f9d-4035-a24a-d7701613cd41" width="100px"/>
 
 
 ## How to Play 🕹️
